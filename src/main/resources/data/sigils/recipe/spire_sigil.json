@@ -1,0 +1,6 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "equipment",
+  "ingredients": [ "minecraft:spire_armor_trim_smithing_template", "minecraft:nether_star", "minecraft:diamond_block" ],
+  "result": { "id": "sigils:spire_sigil", "count": 1 }
+}
